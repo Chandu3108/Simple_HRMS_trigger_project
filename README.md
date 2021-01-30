@@ -1,12 +1,4 @@
-# Simple_HRMS_trigger_project
+# Jupiter-HRMS
+Human Resource Management System based on SQL Database.
 
-username -123
-passowrd -123
-
-requirements-
-
-Software
-Xampp
-
-upload sql database into MysqlAdminServer
-Change name in database connectivity file to the database file.
+Download this as the zip folder and login using index.html
